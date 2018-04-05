@@ -1,7 +1,7 @@
 # Artificial Intelligence Nanodegree
 # Diagonal Sudoku Solver
 
-
+In this project,We solve the sudoku using naked twins strategy.There is a special type of sudoku called diagonal sudoku,where with all the rules of sudoku in place, there is a another special rule where the two diagonals also should have 1 to 9 numbers without repetition. I have solved the diagonal sudoku in this project.
 ### Install
 This project requires **Python 3**.
 
