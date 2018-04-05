@@ -1,5 +1,5 @@
 # Artificial Intelligence Nanodegree
-Diagonal Sudoku Solver
+# Diagonal Sudoku Solver
 
 
 ### Install
